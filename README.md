@@ -1,21 +1,21 @@
 # 华为手机固件包解包工具
 ## 1.介绍:
 - 华为安卓系统包 (harmonyOS 5 之前) 使用 update.app 格式。这种格式可以用 HuaweiUpdateExtractor 解包获得所有分区镜像.
-- 从 harmonyOS 5 开始, 华为固件包开始使用新的 update.bin 格式。这种格式无法使用 HuaweiUpdateExtractor 解包。Looking at the update.bin in hexadecimal format, it was found to be the standard OpenHarmony upgrade package format.
-- Although the official [update_packaging_tools library](https://gitee.com/openharmony/update_packaging_tools) provides an unpacker called unpack_update_package.py, running it directly will have no effect, and will only generate a __pycache__ containing the pyc program Folder. Even if the main program is added at the end of the program to make it run normally, when unpacking to a very large partition (system.img, >1G), the data offset value will be parsed incorrectly, resulting in the unwrapped img being much smaller than the actual value.
-- After reading the official code, I use python write unpack_huawei_package.py. This program does not require any dependencies to be installed. If you don't want to install python, this project provides an additional exe program that can be run directly.
-- You need to put update.bin in the same directory as this program. You can also modify the update.bin file path on line 5 of unpack_huawei_package.py yourself.
+- 从 harmonyOS 5 开始, 华为固件包开始使用新的 update.bin 格式。这种格式无法使用 HuaweiUpdateExtractor 解包。用十六进制编辑器打开，可以发现是标准的 openharmony 升级包格式。
+- 尽管 openharmony 提供了解包工具[update_packaging_tools library](https://gitee.com/openharmony/update_packaging_tools)， 但是运行后并不会有任何效果。虽然在代码后加入主程序后可以正常运行，但是当分区大小特别大时(system.img，>1G)，会发生数据偏移值解析错误，导致解包镜像大小远小于实际值。
+- 在阅读官方代码后，我用python写了 unpack_huawei_package.py。本项目无需安装任何依赖。如果你不想安装python，本项目额外提供了可直接运行的exe程序。
+- 你需要将 update.bin 与程序放在同一目录下。你也可以通过修改 unpack_huawei_package.py 第5行指定 update.bin 文件路径。
 ## 2.update.bin 文件结构解析:
-- update.bin There are two formats, L2 and non-L2. harmonyOS 5 uses the L2 format, so only the L2 format is parsed.
-- The first 178 B is the file header, indicating the version information and build time.
-- The next 2 B is a hexadecimal little-endian of length 4, which represents the length of the partition information.
-- The length of partition information varies depending on the type.
-- (1)The information of each partition of the L2 type is 87 B long. 48-55 of 8 B is a 16-bit hexadecimal little-endian order, which indicates the size of the partition. The last 32 B's are GUID and UUID, respectively.
-- (2) The information for each partition of the non-L2 type is 71 B long.
-- Based on the length of the partition information, you can quickly determine whether the update.bin is L2. If you open a file with the [Hexadecimal Editor](http://wxmedit.github.io/zh_CN/downloads.html), if the length of each partition information is 87 B, that is, the interval between every two "/" is 87 hexadecimal numbers, it is L2. The opposite is non-L2.
-- This is followed by 16 B fixed content with "update/info.bin"
-- The next 2 B is a hexadecimal little-endian of length 4, which indicates the type of signature and determines what is done next.
-- (1)If it is "08", the next 4 B data is read, which is the OEM signature length.
-- Data start offset value: 178 + 2 + partition information length + 16 + 2 + 4 + signature length
-- (2) If it is "06", skip 16 B and read the next 4 B data, that is, the OEM signature length.
-- Data start offset value: 178 + 2 + partition information length + 16 + 2 + 16 + 4 + signature length
+- update.bin 有两种型式，分别为 L2 和非 L2。harmonyOS 5 使用的是 L2 型，所以只解析 L2 型结构。
+- 开头的 178 B 是文件头，包含版本和构建时间信息。
+- 接下来的 2 B 是一个长度为 4 的小端序，表示分区信息的总长度。
+- 分区信息的长度有2种版本。
+- (1) L2 型每个分区信息长度是 87 B。48-55 共 8 B 是16位十六进制小端序，表示每个分区的长度。最后的 32 B 是 GUID 和 UUID。
+- (2) 非 L2 型每个分区信息长度为 71 B。
+- 根据每个分区信息的长度，你可以很快地判断你的 update.bin 是否是 L2 格式。你可以用 [Hexadecimal Editor](http://wxmedit.github.io/zh_CN/downloads.html)打开文件，如果每个分区信息长度为 87 B，即两个"/"之间间隔 87 B，则为 L2 型，反之为非 L2 型。
+- 接下来的 16 B 为固定内容"update/info.bin "。
+- 紧跟的 2 B 是长度为4的十六进制小端序，决定了接下来的签名要如何处理。
+- (1)如果为"08"，则直接读取接下来的 4 B ，表示的是oem签名的长度。
+- 数据起始偏移值 = 178 + 2 + 分区信息长度 + 16 + 2 + 4 + 签名长度
+- (2)如果为"06"，则需要跳过 16 B，再读取 4 B 数据，即oem签名长度。
+- 数据起始偏移量 = 178 + 2 + 分区信息长度 + 16 + 2 + 16 + 4 + 签名长度
