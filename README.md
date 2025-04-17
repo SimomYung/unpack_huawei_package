@@ -19,3 +19,21 @@
 - 数据起始偏移值 = 178 + 2 + 分区信息长度 + 16 + 2 + 4 + 签名长度
 - (2)如果为"06"，则需要跳过 16 B，再读取 4 B 数据，即oem签名长度。
 - 数据起始偏移量 = 178 + 2 + 分区信息长度 + 16 + 2 + 16 + 4 + 签名长度
+## 3.测试固件包
+#### (1)mate70 pro+（harmonyOS 5.0.0.110）
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/Ju0zpBYXTGK7NJyHrjpvjw/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/gXzCQIfCRFKhOHNWyH5B9g/full/update_full_preload_PLA-AL10_all_cn_R4.zip
+#### (2)PuraX
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
+#### (3)演示机版本（harmonyOS 5.0.0.123）
+- mate70 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
+- mate70 RS 非凡大师：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a1/v3/-WXkgDCBTuiCJLzGJV0_NQ/full/update_full_base.zip
+- mate X6：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/_QhR8WC1SsuLapM1JQGg1w/full/update_full_base.zip
+#### (4)harmonyOS 5.0.0.135
+- mate60 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
+- mate70：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e4/v3/nb46Jdb4QPmLjK-rkVWo6Q/full/update_full_base.zip
+- mate X6：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/VK2aTP22TZWbp0BCc6G_Aw/full/update_full_base.zip
+- nova12 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
+- nova13：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/N5WY206bSySWEJC-ZhNtzA/full/update_full_base.zip
+- nova13 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
