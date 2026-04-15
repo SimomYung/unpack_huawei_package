@@ -37,3 +37,7 @@
 - nova12 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
 - nova13：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/N5WY206bSySWEJC-ZhNtzA/full/update_full_base.zip
 - nova13 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
+#### （5）mate60 pro harmonyOS 6.0.0.108(SP6C00E107R5P7)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/LQOlUJB8RjivKL2kfHFtQg/full/update_full_base.zip
+#### （6）HUAWEI MatePad Pro 12.2" harmonyOS 6.1.0.105(SP52C00E105R1P3)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/SL8p-VjrTnKDVX-AXrjViQ/full/update_full_base.zip
