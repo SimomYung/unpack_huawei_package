@@ -39,9 +39,9 @@
 - Nova 13 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
 #### （5）Mate 60 pro harmonyOS 6.0.0.108(SP6C00E107R5P7)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/LQOlUJB8RjivKL2kfHFtQg/full/update_full_base.zip
-#### （6）MatePad Pro 12.2" harmonyOS 6.1.0.105(SP52C00E105R1P3)
+#### （6）MatePad Pro 12.2" harmonyOS 6.0.0.328(SP52C00E105R1P3)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/SL8p-VjrTnKDVX-AXrjViQ/full/update_full_base.zip
 #### （8）Mate 80 Pro Max harmonyOS 6.0.0.125(SP8C00E125R3P8)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/20/v3/5uiI74q1Q82Lj7JpfMx_pQ/full/update_full_base.zip
-#### （8）Mate 80 Pro Max harmonyOS 6.1.0.105(SP52C00E105R3P9)
+#### （8）Mate 80 Pro Max harmonyOS 6.0.0.328(SP52C00E105R3P9)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fd/v3/BHim8OSbTSeuCKfHBVObDQ/full/update_full_base.zip 
