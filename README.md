@@ -29,11 +29,11 @@
 #### (2)Pura X &ensp;5.0.1.110(SP5)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
 #### (3)演示机版本（5.0.0.123）
-- Mate 70 Pro：
+- Mate 70 Pro：<br>
 http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
-- Mate 70 RS 非凡大师：
+- Mate 70 RS 非凡大师：<br>
 http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a1/v3/-WXkgDCBTuiCJLzGJV0_NQ/full/update_full_base.zip
-- Mate X6：
+- Mate X6：<br>
 http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/_QhR8WC1SsuLapM1JQGg1w/full/update_full_base.zip
 #### (4)harmonyOS 5.0.0.135
 - Mate 60 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
