@@ -103,3 +103,7 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/90/v3/revbgQvIT7eP4ZiKzRgq5Q/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/nvvaHdbMTwGKhiL_sK7dDg/full/update_full_cust_DEL-AL20_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7a/v3/EhGLfRasREy5vHC-svzaxw/full/update_full_preload_DEL-AL20_all_cn_R4.zip
+#### （10）OSTA O1 Pro harmonyOS 7.0.0.115(SP13C00E112R5P1)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/10/v3/TGM88JetTPiCXqEWbuw0cg/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/27/v3/s-A47pXLRWC1HbJnWTY0iQ/full/update_full_cust_ACO-AL00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8d/v3/MYbFxU8jTjK_Q8aLV6KVzA/full/update_full_preload_ACO-AL00_all_cn_R5.zip
