@@ -66,3 +66,24 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/46/v3/MNjVOYr4TZmNJ74HtEnVKw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ba/v3/n6iLVLaEQR-En9_nRp9-AQ/full/update_full_cust_SGU-AL10_ultimate_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/06/v3/EFpqWZ7JQZirmHMDMkYtPA/full/update_full_preload_SGU-AL10_ultimate_cn_R3.zip
+### 鸿蒙7专区
+#### （1）Mate 60 harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e6/v3/08oAwLtsRE2HVy4eYFB0AA/full/update_full_base.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9a/v3/LeHNrGgXSCOWMX8xytkncw/full/update_full_cust_BRA-AL00_all_cn.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/Hy3gZckzTaS9HTP7guuGUQ/full/update_full_preload_BRA-AL00_all_cn_R5.zip
+#### （2）Mate 60 Pro harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/aTlyG3U2R-ui7sRZSI-scg/full/update_full_cust_ALN-AL00_all_cn.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/e8SwQkLTQu24wDdxQO7BWA/full/update_full_preload_ALN-AL00_all_cn_R5.zip
+#### （3）Mate 60 Pro+ harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/UNQoxJjDRheXfOECu3Zerw/full/update_full_cust_ALN-AL10_all_cn.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2e/v3/kk3v-C_QRyKQFZvizhQDIw/full/update_full_preload_ALN-AL10_all_cn_R5.zip
+#### （4）MatePad Air 12" 2026悦享版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fe/v3/K0BAHv1tRiGk0ALcREY2Mg/full/update_full_base.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/6meH94E1RymRezZoT9rceA/full/update_full_cust_WKI-W00_all_cn.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6f/v3/63e1F9UUSO2Ek1LO-AAXWg/full/update_full_preload_WKI-W00_all_cn_R5.zip
+#### （5）MatePad Air 12" 2026版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/56/v3/_cSk2f1BT-mXkb2ffnKPng/full/update_full_base.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/05/v3/AK-bywOPRfyVr4JZtsY-vg/full/update_full_cust_WKI-W10_all_cn.zip
+- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/64/v3/PNwiBXuoTdCeYYFvOpPTDA/full/update_full_preload_WKI-W10_all_cn_R5.zip
