@@ -20,6 +20,7 @@
 - (2)如果为"06"，则需要跳过 16 B，再读取 4 B 数据，即oem签名长度。
 - 数据起始偏移量 = 178 + 2 + 分区信息长度 + 16 + 2 + 16 + 4 + 签名长度
 ## 3.测试固件包
+提醒：以下固件包并未经过我的测试，仅提供给用户作为参考。部分固件包参考自 https://ffusersubmission.byethost17.com
 #### (1)Mate 70 pro+（harmonyOS 5.0.0.110）
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/Ju0zpBYXTGK7NJyHrjpvjw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
@@ -43,5 +44,7 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/SL8p-VjrTnKDVX-AXrjViQ/full/update_full_base.zip
 #### （8）Mate 80 Pro Max harmonyOS 6.0.0.125(SP8C00E125R3P8)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/20/v3/5uiI74q1Q82Lj7JpfMx_pQ/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/G25zjlIRSz-G01F4nGF2xg/full/update_full_cust_SGT-AL10_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ae/v3/0j8forjYSiCvpP1gmowqXQ/full/update_full_preload_SGT-AL10_all_cn_R3.zip
 #### （8）Mate 80 Pro Max harmonyOS 6.0.0.328(SP52C00E105R3P9)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fd/v3/BHim8OSbTSeuCKfHBVObDQ/full/update_full_base.zip 
