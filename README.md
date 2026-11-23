@@ -22,37 +22,37 @@
 ## 3.测试固件包
 提醒：以下固件包并未经过我的测试，仅提供给用户作为参考。部分固件包参考自 https://ffusersubmission.byethost17.com
 ### 鸿蒙5专区
-#### (1)Mate 70 pro+（5.0.0.110）
+#### (1)Mate 70 Pro+（5.0.0.110）
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/Ju0zpBYXTGK7NJyHrjpvjw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/gXzCQIfCRFKhOHNWyH5B9g/full/update_full_preload_PLA-AL10_all_cn_R4.zip
 #### (2)Pura X（5.0.1.110）
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
 #### (3)演示机版本（5.0.0.123）
-- Mate 70 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
+- Mate 70 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
 - Mate 70 RS 非凡大师：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a1/v3/-WXkgDCBTuiCJLzGJV0_NQ/full/update_full_base.zip
 - Mate X6：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/_QhR8WC1SsuLapM1JQGg1w/full/update_full_base.zip
 #### (4)harmonyOS 5.0.0.135
-- Mate 60 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
+- Mate 60 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
 - Mate 70：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e4/v3/nb46Jdb4QPmLjK-rkVWo6Q/full/update_full_base.zip
 - Mate X6：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/VK2aTP22TZWbp0BCc6G_Aw/full/update_full_base.zip
-- Nova 12 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
+- Nova 12 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
 - Nova 13：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/N5WY206bSySWEJC-ZhNtzA/full/update_full_base.zip
-- Nova 13 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
+- Nova 13 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
 ### 鸿蒙6专区
-#### （1）Mate 60 pro harmonyOS 6.0.0.108(SP6C00E107R5P7)
+#### （1）Mate 60 Pro harmonyOS 6.0.0.108(SP6C00E107R5P7)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/LQOlUJB8RjivKL2kfHFtQg/full/update_full_base.zip
-#### （2）MatePad Pro 12.2" harmonyOS 6.0.0.328(SP52C00E105R1P3)
+#### （2）MatePad Pro 12.2" WiFi版 harmonyOS 6.0.0.328(SP52C00E105R1P3)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/SL8p-VjrTnKDVX-AXrjViQ/full/update_full_base.zip
 #### （3）Mate 80 harmonyOS 6.0.0.125(SP7C00E125R3P7)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c0/v3/VoImfWAQQfGQpyeTbBLXrQ/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f0/v3/KaQu_KvRRzS5Rw26qXKPBQ/full/update_full_cust_VYG-AL00_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/NYsYHk1qSsyxZ24IfiohZw/full/update_full_preload_VYG-AL00_all_cn_R3.zip
-#### （4）Mate 80 pro（麒麟9030） harmonyOS 6.0.0.125(SP7C00E125R3P8)
+#### （4）Mate 80 Pro（麒麟9030） harmonyOS 6.0.0.125(SP7C00E125R3P8)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/25/v3/Dssy-jZDS7K2fwogjyi0Xw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/33/v3/q8M1sfpORja6MGyyzCXt-w/full/update_full_cust_SGT-AL50_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/bYlkbDdHTFuNALSbOnkYqw/full/update_full_preload_SGT-AL50_all_cn_R3.zip
-#### （5）Mate 80 pro（麒麟9030pro） harmonyOS 6.0.0.125(SP8C00E125R3P8)
+#### （5）Mate 80 Pro（麒麟9030pro） harmonyOS 6.0.0.125(SP8C00E125R3P8)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/91/v3/tZ-pBnk7Se-bF3lw99wqpg/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/UKLGj14YTgSynvr_nXBzTg/full/update_full_cust_SGT-AL00B_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/86/v3/LlE0uGWnTaGyCK9FE2uvQA/full/update_full_preload_SGT-AL00B_all_cn_R3.zip
@@ -75,7 +75,7 @@
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/aTlyG3U2R-ui7sRZSI-scg/full/update_full_cust_ALN-AL00_all_cn.zip
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/e8SwQkLTQu24wDdxQO7BWA/full/update_full_preload_ALN-AL00_all_cn_R5.zip
-#### （3）Mate 60 Pro+ harmonyOS 7.0.0.111(SP10C00E111R5P3)
+#### （3）Mate 60 Pro+/Mate 60 RS非凡大师 harmonyOS 7.0.0.111(SP10C00E111R5P3)
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/UNQoxJjDRheXfOECu3Zerw/full/update_full_cust_ALN-AL10_all_cn.zip
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2e/v3/kk3v-C_QRyKQFZvizhQDIw/full/update_full_preload_ALN-AL10_all_cn_R5.zip
