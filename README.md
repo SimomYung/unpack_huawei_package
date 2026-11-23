@@ -22,11 +22,11 @@
 ## 3.测试固件包
 提醒：以下固件包并未经过我的测试，仅提供给用户作为参考。部分固件包参考自 https://ffusersubmission.byethost17.com
 ### 鸿蒙5专区
-#### (1)Mate 70 Pro+ harmonyOS 5.0.0.113（SP6C00E110R4P9）
+#### (1)Mate 70 Pro+ harmonyOS 5.0.0.113(SP6C00E110R4P9)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/Ju0zpBYXTGK7NJyHrjpvjw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/gXzCQIfCRFKhOHNWyH5B9g/full/update_full_preload_PLA-AL10_all_cn_R4.zip
-#### (2)Pura X（5.0.1.110）
+#### (2)Pura X harmonyOS 5.0.1.110(SP5)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
 #### (3)演示机版本（5.0.0.123）
 - Mate 70 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
