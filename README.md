@@ -27,7 +27,7 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/gXzCQIfCRFKhOHNWyH5B9g/full/update_full_preload_PLA-AL10_all_cn_R4.zip
 #### (2)Pura X（5.0.1.110）
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
 #### (3)演示机版本（5.0.0.123）
 - Mate 70 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
 - Mate 70 RS 非凡大师：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a1/v3/-WXkgDCBTuiCJLzGJV0_NQ/full/update_full_base.zip
@@ -67,23 +67,39 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ba/v3/n6iLVLaEQR-En9_nRp9-AQ/full/update_full_cust_SGU-AL10_ultimate_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/06/v3/EFpqWZ7JQZirmHMDMkYtPA/full/update_full_preload_SGU-AL10_ultimate_cn_R3.zip
 ### 鸿蒙7专区
-#### （1）Mate 60 harmonyOS 7.0.0.111(SP10C00E111R5P3)
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e6/v3/08oAwLtsRE2HVy4eYFB0AA/full/update_full_base.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9a/v3/LeHNrGgXSCOWMX8xytkncw/full/update_full_cust_BRA-AL00_all_cn.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/Hy3gZckzTaS9HTP7guuGUQ/full/update_full_preload_BRA-AL00_all_cn_R5.zip
-#### （2）Mate 60 Pro harmonyOS 7.0.0.111(SP10C00E111R5P3)
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/aTlyG3U2R-ui7sRZSI-scg/full/update_full_cust_ALN-AL00_all_cn.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/e8SwQkLTQu24wDdxQO7BWA/full/update_full_preload_ALN-AL00_all_cn_R5.zip
-#### （3）Mate 60 Pro+/Mate 60 RS非凡大师 harmonyOS 7.0.0.111(SP10C00E111R5P3)
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/UNQoxJjDRheXfOECu3Zerw/full/update_full_cust_ALN-AL10_all_cn.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2e/v3/kk3v-C_QRyKQFZvizhQDIw/full/update_full_preload_ALN-AL10_all_cn_R5.zip
-#### （4）MatePad Air 12" 2026悦享版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fe/v3/K0BAHv1tRiGk0ALcREY2Mg/full/update_full_base.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/6meH94E1RymRezZoT9rceA/full/update_full_cust_WKI-W00_all_cn.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6f/v3/63e1F9UUSO2Ek1LO-AAXWg/full/update_full_preload_WKI-W00_all_cn_R5.zip
-#### （5）MatePad Air 12" 2026版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/56/v3/_cSk2f1BT-mXkb2ffnKPng/full/update_full_base.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/05/v3/AK-bywOPRfyVr4JZtsY-vg/full/update_full_cust_WKI-W10_all_cn.zip
-- https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/64/v3/PNwiBXuoTdCeYYFvOpPTDA/full/update_full_preload_WKI-W10_all_cn_R5.zip
+#### （1）MatePad Air 12" 2026悦享版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fe/v3/K0BAHv1tRiGk0ALcREY2Mg/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/6meH94E1RymRezZoT9rceA/full/update_full_cust_WKI-W00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6f/v3/63e1F9UUSO2Ek1LO-AAXWg/full/update_full_preload_WKI-W00_all_cn_R5.zip
+#### （2）MatePad Air 12" 2026版 harmonyOS 7.0.0.109(SP6C00E107R5P5)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/56/v3/_cSk2f1BT-mXkb2ffnKPng/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/05/v3/AK-bywOPRfyVr4JZtsY-vg/full/update_full_cust_WKI-W10_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/64/v3/PNwiBXuoTdCeYYFvOpPTDA/full/update_full_preload_WKI-W10_all_cn_R5.zip
+#### （3）MatePad Pro Max 13.2″ harmonyOS 7.0.0.111(SP12C00E111R3P3)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/6AYVGDg-THm5vdwLX1ur5Q/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/96/v3/RGfoA9NVRrm4h9zFoGE88A/full/update_full_cust_GEM-W00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/25/v3/b2cvW6GOQO6aLIPBNY0WpA/full/update_full_preload_GEM-W00_all_cn_R3.zip
+#### （4）MateBook Pro 24GB harmonyOS 7.0.0.111(SP7C00E100R13P5)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f3/v3/LNRLg8OxS8GSQ-vHXFRU4A/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/71/v3/Wj_ZcUq0S3ifhTVXJ2-ynA/full/update_full_cust_HAD-W24_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ed/v3/32EV2Np_TMCY3seBmVu0uw/full/update_full_preload_HAD-W24_all_cn_R13.zip
+#### （5）Mate 60 harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e6/v3/08oAwLtsRE2HVy4eYFB0AA/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9a/v3/LeHNrGgXSCOWMX8xytkncw/full/update_full_cust_BRA-AL00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/Hy3gZckzTaS9HTP7guuGUQ/full/update_full_preload_BRA-AL00_all_cn_R5.zip
+#### （6）Mate 60 Pro harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/aTlyG3U2R-ui7sRZSI-scg/full/update_full_cust_ALN-AL00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/e8SwQkLTQu24wDdxQO7BWA/full/update_full_preload_ALN-AL00_all_cn_R5.zip
+#### （7）Mate 60 Pro+/Mate 60 RS非凡大师 harmonyOS 7.0.0.111(SP10C00E111R5P3)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/xAppe3AxQWuxIqFz-ff8fg/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/UNQoxJjDRheXfOECu3Zerw/full/update_full_cust_ALN-AL10_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2e/v3/kk3v-C_QRyKQFZvizhQDIw/full/update_full_preload_ALN-AL10_all_cn_R5.zip
+#### （8）Mate 90 Pro Max（麒麟9050） harmonyOS 7.0.0.111(SP12C00E111R6P4)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ad/v3/HiFIVW-6TU6JZGG40o7Yhw/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b7/v3/u7t6oXM6RIqOrtEx2Ie7sA/full/update_full_cust_CMM-AL00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/79/v3/wiFYVu1XSYCbizuinHXn3g/full/update_full_preload_CMM-AL00_all_cn_R6.zip
+#### （9）Mate X7 典藏版 harmonyOS 7.0.0.111(SP12C00E111R4P5)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/90/v3/revbgQvIT7eP4ZiKzRgq5Q/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/nvvaHdbMTwGKhiL_sK7dDg/full/update_full_cust_DEL-AL20_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7a/v3/EhGLfRasREy5vHC-svzaxw/full/update_full_preload_DEL-AL20_all_cn_R4.zip
