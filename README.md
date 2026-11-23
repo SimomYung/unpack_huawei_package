@@ -36,12 +36,18 @@ http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a1/v3/-WXkgDCB
 - Mate X6：<br>
 http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/_QhR8WC1SsuLapM1JQGg1w/full/update_full_base.zip
 #### (4)harmonyOS 5.0.0.135
-- Mate 60 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
-- Mate 70：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e4/v3/nb46Jdb4QPmLjK-rkVWo6Q/full/update_full_base.zip
-- Mate X6：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/VK2aTP22TZWbp0BCc6G_Aw/full/update_full_base.zip
-- Nova 12 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
-- Nova 13：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/N5WY206bSySWEJC-ZhNtzA/full/update_full_base.zip
-- Nova 13 Pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
+- Mate 60 Pro：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/cWNEFo9iS9qB1do61kOHew/full/update_full_base.zip
+- Mate 70：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e4/v3/nb46Jdb4QPmLjK-rkVWo6Q/full/update_full_base.zip
+- Mate X6：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/VK2aTP22TZWbp0BCc6G_Aw/full/update_full_base.zip
+- Nova 12 Pro：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/JF5AGK7kSk2TSALCGJVkuA/full/update_full_base.zip
+- Nova 13：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/N5WY206bSySWEJC-ZhNtzA/full/update_full_base.zip
+- Nova 13 Pro：<br>
+http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/78/v3/gTyj8yYxRiOofgyzJun1tg/full/update_full_base.zip
 ### 鸿蒙6专区
 #### （1）Mate 60 Pro &ensp;6.0.0.108(SP6C00E107R5P7)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/LQOlUJB8RjivKL2kfHFtQg/full/update_full_base.zip
