@@ -25,7 +25,7 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/Ju0zpBYXTGK7NJyHrjpvjw/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/Aw0I5-i5RpuJDGY1aAVtrQ/full/update_full_cust_PLA-AL10_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/gXzCQIfCRFKhOHNWyH5B9g/full/update_full_preload_PLA-AL10_all_cn_R4.zip
-#### (2)Pura X
+#### (2)Pura X（harmonyOS 5.0.1.110）
 - https://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/GjG1kcEkQkaYzQX6vhON0g/full/update_full_base.zip
 #### (3)演示机版本（harmonyOS 5.0.0.123）
 - Mate 70 pro：http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f4/v3/18JvehOXQIm7uaf4r1UA3A/full/update_full_base.zip
@@ -42,9 +42,25 @@
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/LQOlUJB8RjivKL2kfHFtQg/full/update_full_base.zip
 #### （6）MatePad Pro 12.2" harmonyOS 6.0.0.328(SP52C00E105R1P3)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/SL8p-VjrTnKDVX-AXrjViQ/full/update_full_base.zip
-#### （8）Mate 80 Pro Max harmonyOS 6.0.0.125(SP8C00E125R3P8)
+#### （7）Mate 80 harmonyOS 6.0.0.125(SP7C00E125R3P7)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c0/v3/VoImfWAQQfGQpyeTbBLXrQ/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f0/v3/KaQu_KvRRzS5Rw26qXKPBQ/full/update_full_cust_VYG-AL00_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/NYsYHk1qSsyxZ24IfiohZw/full/update_full_preload_VYG-AL00_all_cn_R3.zip
+#### （8）Mate 80 pro（麒麟9030） harmonyOS 6.0.0.125(SP7C00E125R3P8)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/25/v3/Dssy-jZDS7K2fwogjyi0Xw/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/33/v3/q8M1sfpORja6MGyyzCXt-w/full/update_full_cust_SGT-AL50_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/bYlkbDdHTFuNALSbOnkYqw/full/update_full_preload_SGT-AL50_all_cn_R3.zip
+#### （9）Mate 80 pro（麒麟9030pro） harmonyOS 6.0.0.125(SP8C00E125R3P8)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/91/v3/tZ-pBnk7Se-bF3lw99wqpg/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/UKLGj14YTgSynvr_nXBzTg/full/update_full_cust_SGT-AL00B_all_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/86/v3/LlE0uGWnTaGyCK9FE2uvQA/full/update_full_preload_SGT-AL00B_all_cn_R3.zip
+#### （10）Mate 80 Pro Max harmonyOS 6.0.0.125(SP8C00E125R3P8)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/20/v3/5uiI74q1Q82Lj7JpfMx_pQ/full/update_full_base.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/G25zjlIRSz-G01F4nGF2xg/full/update_full_cust_SGT-AL10_all_cn.zip
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ae/v3/0j8forjYSiCvpP1gmowqXQ/full/update_full_preload_SGT-AL10_all_cn_R3.zip
-#### （8）Mate 80 Pro Max harmonyOS 6.0.0.328(SP52C00E105R3P9)
+#### （11）Mate 80 Pro Max harmonyOS 6.0.0.328(SP52C00E105R3P9)
 - http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fd/v3/BHim8OSbTSeuCKfHBVObDQ/full/update_full_base.zip 
+#### （12）Mate 80 RS 非凡大师 harmonyOS 6.0.0.125(SP8C14E125R3P8)
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/46/v3/MNjVOYr4TZmNJ74HtEnVKw/full/update_full_base.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ba/v3/n6iLVLaEQR-En9_nRp9-AQ/full/update_full_cust_SGU-AL10_ultimate_cn.zip
+- http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/06/v3/EFpqWZ7JQZirmHMDMkYtPA/full/update_full_preload_SGU-AL10_ultimate_cn_R3.zip
